@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl:
+    baseurl: https://jgsuess.github.io/fhirlab-cluster-homepage/
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
